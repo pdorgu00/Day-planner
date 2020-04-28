@@ -5,3 +5,5 @@ The user can type in tasks for the specific time and save the what they need to 
 
 
 https://pdorgu00.github.io/Day-planner/
+
+![image](https://user-images.githubusercontent.com/56213571/80536785-e7694600-8970-11ea-90c3-6b016d51eaee.png)
