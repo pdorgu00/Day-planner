@@ -10,3 +10,6 @@ The deployed GitHub page can be found here: https://pdorgu00.github.io/Day-plann
 
 # Getting Started and Deployment
 This application does not require installation and runs in the browser. 
+
+# Built With
+[jQuery](https://jquery.com/) - JavaScript Library
