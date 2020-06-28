@@ -13,5 +13,7 @@ This application does not require installation and runs in the browser.
 
 # Built With
 [jQuery](https://jquery.com/) - JavaScript Library
+<br>
 HTML
+<br>
 CSS
