@@ -12,10 +12,10 @@ The application has the current day and month displayed at the top of the page, 
 
 ![image](https://user-images.githubusercontent.com/56213571/80536785-e7694600-8970-11ea-90c3-6b016d51eaee.png)
 
-# Getting Started and Deployment
+# Installation
 This application does not require installation and runs in the browser. 
 <br>
-The deployed GitHub page can be found here: https://pdorgu00.github.io/Day-planner/
+
 
 
 # Built With
@@ -24,3 +24,7 @@ The deployed GitHub page can be found here: https://pdorgu00.github.io/Day-plann
 HTML
 <br>
 CSS
+
+# Deployed Link
+
+The deployed GitHub page can be found here: https://pdorgu00.github.io/Day-planner/
